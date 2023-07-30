@@ -1,4 +1,4 @@
-## ReadMe Summary: Whale Analysis and Portfolio Performance
+## Whale Analysis and Portfolio Performance
 
 This repository contains a Jupyter Notebook named "whale_analysis.ipynb" that performs quantitative analysis on various investment portfolios and compares their performance with the S&P 500 market index. The analysis is carried out in three main sections: Data Preparation, Quantitative Analysis, and Sharpe Ratios, with an additional section on Custom Portfolio analysis.
 
